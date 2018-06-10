@@ -20,7 +20,7 @@ pip install selenium
 
 # Usage
 
-python phoneSpoofer.py <PhoneToSpoof> <PhoneToCall> <Username for FireRTC> <Password for FireRTC>
+python firespoof.py <PhoneToSpoof> <PhoneToCall> <Username for FireRTC> <Password for FireRTC>
   
 # Warning
 
