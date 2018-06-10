@@ -6,28 +6,5 @@ Will allow you to spoof bogus phone calls on the fly, and when the call ends it 
 
 I made this for Social-Engineering engagements (Note: I was given permission to legally test in all engagements) in which I needed to dial up a ton of people up pretty fast, sometimes with different numbers. 
 
-# Dependencies 
-This program uses Python 3, and will not work with Python 2.7. Some minor changes will be made in the future to support python 2.7.
-## Python Installs: 
-pip install selenium
-
-### Selenium GeckoDriver Linux Install:
-
-1. wget https://github.com/mozilla/geckodriver/releases/download/v0.18.0/geckodriver-v0.18.0-linux64.tar.gz
-2. tar -xvzf geckodriver*
-3. chmod +x geckodriver
-4. sudo mv geckodriver /usr/local/bin/
-
-# Usage
-
-python firespoof.py <PhoneToSpoof> <PhoneToCall> <Username for FireRTC> <Password for FireRTC>
-  
-# Warning
-
-I'm NOT responsible for improper conduct using this code, and neither is FireRTC. Please only use this program under legal pretenses, and make good decisions. 
-
-Cheers!
-
-# Buy me a coffee? 
-## Monero Address
-439Jr3ATzETf7ARQgmqAybW9B4htJi5DmDU97ZFffMDXAinbXPCAbydf8Zy1ELqvFV59JYQkn2zswMmt6S2PbUajRZ4BdEQ
+# THIS HAS BEEN MOVED TO GITLAB: https://gitlab.com/pdemange/FireSpoof
+# DUE TO GITHUB's CHANGE OF OWNERSHIP
